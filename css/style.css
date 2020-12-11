@@ -589,10 +589,42 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .advisor-carousel .owl-theme .owl-nav { display: none; }
 .sign-icon img { width: 269px !important; }
 .advisor-carousel .owl-theme .owl-dots .owl-dot { display: inline-block; zoom: 1; }
-.advisor-carousel .owl-theme .owl-dots .owl-dot:nth-child(1) span { width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; background: url("../images/advisor_small_1.jpg") no-repeat; background-size: cover; transition: all 0.3s ease-in-out 0s; }
-.advisor-carousel .owl-theme .owl-dots .owl-dot:nth-child(2) span { width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; background: url("../images/advisor_small_2.jpg") no-repeat; background-size: cover; transition: all 0.3s ease-in-out 0s; }
-.advisor-carousel .owl-theme .owl-dots .owl-dot:nth-child(3) span { width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; background: url("../images/advisor_small_3.jpg") no-repeat; background-size: cover; transition: all 0.3s ease-in-out 0s; }
-.advisor-carousel .owl-theme .owl-dots .owl-dot:nth-child(4) span { width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; background: url("../images/advisor_small_4.jpg") no-repeat; background-size: cover; transition: all 0.3s ease-in-out 0s; }
+.advisor-carousel .owl-theme .owl-dots .owl-dot:nth-child(1) span {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    background: url("../images/happy-black-woman-meeting-with-business-partner_236854-14901.jpg") no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out 0s;
+}
+.advisor-carousel .owl-theme .owl-dots .owl-dot:nth-child(2) span {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    background: url("../images/smiling-black-businesswoman-her-office_53419-1297.jpg") no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out 0s;
+}
+.advisor-carousel .owl-theme .owl-dots .owl-dot:nth-child(3) span {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    background: url("../images/african-american-business-woman-with-phone-laptop_1303-7301.jpg") no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out 0s;
+}
+.advisor-carousel .owl-theme .owl-dots .owl-dot:nth-child(4) span {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    background: url("../images/african-businessman-outdoor-modern-setting_53419-3177.jpg") no-repeat;
+    background-size: cover;
+    transition: all 0.3s ease-in-out 0s;
+}
 .advisor-carousel .owl-theme .owl-dots .owl-dot span { opacity: 0.5; }
 .advisor-carousel .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span { opacity: 1; border: 2px solid #8efdae; background-color: #8efdae; }
 .advisor-carousel .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span { }
